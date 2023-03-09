@@ -1,0 +1,12 @@
+.text{
+    text-align: center;
+    color: blue;
+}
+.box{
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border: none;
+    background-image: url("https://www.techpowerup.com/forums/attachments/1628144065856-png.211261/");
+}
